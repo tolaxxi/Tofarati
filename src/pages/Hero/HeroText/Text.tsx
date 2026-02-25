@@ -1,5 +1,4 @@
 import { HiOutlineMail } from 'react-icons/hi';
-import { mail } from './constant';
 
 const Text = () => {
   return (
