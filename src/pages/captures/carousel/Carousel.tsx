@@ -50,7 +50,7 @@ const Carousel = () => {
         <img
           src={images[prevIndex]}
           onClick={() => setCurrent(prevIndex)}
-          className="hidden lg:block w-[260px] h-[350px] object-cover opacity-60 cursor-pointer transition-all duration-500 hover:opacity-90"
+          className="hidden lg:block w-65 h-87.5 object-cover opacity-60 cursor-pointer transition-all duration-500 hover:opacity-90"
         />
 
         {/* CURRENT */}
